@@ -1,0 +1,110 @@
+body{
+
+	box-sizing: border-box;
+}
+.hat{
+text-align: center;
+height: 100px;
+background: url(image/patt1.png);
+
+}
+
+
+
+.logo{
+position: absolute;
+margin-top: 25px;
+text-align: center;	
+
+}
+a{
+	text-decoration: none;
+}
+
+.slider{
+
+	height: 300px;
+	background: url(image/patt2.png);
+
+
+}
+
+.show-more a{
+	color: white;
+
+}
+	
+	.menu li:hover{
+		background-color: rgb(44,113,184);
+	}
+.submenu li:hover ul{
+	left: 0;
+}
+
+.device-name{
+	color:white;
+}
+
+.product-discription{
+	color: white;
+}	
+.menu li{
+	
+	
+	float: left;
+	display: block;
+	
+	width: 150px;
+	height: 50px;
+
+
+}
+.submit input{
+	background-color: rgb(44,113,184);
+	color: white;
+}
+.submenu li{
+	display: none;	
+
+}
+
+.device.type{
+
+	color:white;
+}
+.search-button{
+	 
+	width: 26px;
+	height: 27px;
+	background-image:  url(image/basket.png)
+}
+.col-md-3{
+	background-image: url(image/patt.png)
+
+
+
+}	
+.main main{
+	
+	position: absolute;
+	height: 2000px;
+	width: 3000px;
+
+	background-image: url(image/patt.png)
+}
+
+
+.search{
+	margin-top: 25px;
+	margin-right: 5px;
+}
+table{
+
+	width: 800px;
+	height: 1185px;
+
+}
+
+.device color{
+	text-align:center; 
+}
